@@ -1,0 +1,11 @@
+(sin(45+15)^2)^3 = 0.00080
+-cos(-tg(-5)+sin(√16)) = 0.54389
+1+√√√√10000 = 101
+-70*√10-25 = -246.35944
+Square root of a negative number!
+√√√√√√1000000 = 1.24094
+Syntax error!
+Division by zero!
+Syntax error!
+sin(-30+50)^tg(1)^√16 = 0.56700
+cos^2(sin(tg(√√√16))) = 0.38830
